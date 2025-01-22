@@ -1,12 +1,12 @@
 {
-  "name": "MAFIA-MD",
+  "name": "ABUZAR-MD",
   "version": "1.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name MAFIA-SOBX-MD",
-    "stop": "pm2 stop MAFIA-SOBX-MD",
-    "restart": "pm2 restart MAFIA-SOBX-MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name ABUZAR-MD",
+    "stop": "pm2 stop ABUZAR-MD",
+    "restart": "pm2 restart ABUZAR-MD"
   },
 "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
