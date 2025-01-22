@@ -1,5 +1,5 @@
 {
-  "name": "MAFIA-MD",
+  "name": "ABUZAR-MD",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ MAFIA ADEEL",
   "logo": "https://i.imgur.com/bN2z9kT.jpeg",
   "keywords": ["bot"],
@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://i.imgur.com/B2oisGB.jpeg"
+      "value": "https://qu.ax/HHtFp.jpg'/"
     }, 
     
     "ALIVE_MSG": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "✯𝙼𝙰𝙵𝙸𝙰-𝙼𝙳-𝚟𝟷✯"
+      "value": "✯ABUZAR-MD"
     }, 
 
     "HEART_REACT": {
@@ -112,7 +112,7 @@
     "CAPTION": {
       "description": "enter your caption if you want to show on menu.",
       "required": true,
-      "value": "POWERED BY MAFIA-ADEEL"
+      "value": "POWERED BY ABUZAR KING"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
