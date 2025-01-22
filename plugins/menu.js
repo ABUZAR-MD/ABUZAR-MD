@@ -45,7 +45,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/hc1P121/Manul-Ofc-X.jpg` },
+                image: { url: `https://qu.ax/HHtFp.jpg'/` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -53,7 +53,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363300351654980@newsletter',
-                        newsletterName: 'MAFIA-ADEEL👑',
+                        newsletterName: 'ABUZAR-MD 👑',
                         serverMessageId: 143
                     }
                 }
