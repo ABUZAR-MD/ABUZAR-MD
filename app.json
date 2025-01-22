@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "rngnhRyC#hSmmsXoNI4tQA3uJFEiNNpSNekJP2lmFbtYFtCpDR_w.",
       "required": true,
       "value": ""
     },  
@@ -39,19 +39,19 @@
 
     "AUTO_VOICE": {
       "description": "Make it true if you want bot auto voice.",
-      "required": true,
+      "required": false,
       "value": "true"
     }, 
 
     "AUTO_REPLY": {
       "description": "Make it true if you want bot auto reply.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
 
     "AUTO_STICKER": {
       "description": "Make it true if you want bot auto sticker.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
 
@@ -63,25 +63,25 @@
 
     "ANTI_LINK": {
       "description": "Make it true if you want bot auto remove group link.",
-      "required": true,
+      "required": false,
       "value": "true"
     },
 
     "ANTI_BAD": {
       "description": "Make it true if you want bot auto delete bad words from group example xxx porn etc.",
-      "required": true,
+      "required": false,
       "value": "true"
     }, 
 
     "FAKE_RECORDING": {
       "description": "Make it true if you want bot fake record.",
-      "required": true,
+      "required": false,
       "value": "false"
     },
 
     "AUTO_REACT": {
       "description": "Make it true if you want bot AutoReact.",
-      "required": true,
+      "required": false,
       "value": "false"
     },
 
