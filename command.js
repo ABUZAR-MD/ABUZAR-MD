@@ -1,6 +1,6 @@
 /*
-created ADEEL/MAFIAADEEL
-contacᴛ 03131613251
+created ABUZAR-MD 
+contacᴛ 923469139342
 © Copy coder alert ⚠
 */
 
