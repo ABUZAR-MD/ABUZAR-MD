@@ -3,8 +3,8 @@
 
 ---
 <p align="center">
-  <a href="https://github.com/MAFIA-ADEEL">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=ABUZAR-MD-+v1.0+MultiDevice;Developed+by+MAFIA👑;Give+star+and+forks+this+Repo+🌟" alt="MAFIREADME">
+  <a href="https://github.com/ABUZAR-MD">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&multiline=false&lines=ABUZAR-MD-+v1.0+MultiDevice;Developed+by+ABUZAR👑;Give+star+and+forks+this+Repo+🌟" alt="MAFIREADME">
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MAFIA-ADEEL/MAFIA-MD-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/ABUZAR-MD-BOT)
 
 ----------
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
