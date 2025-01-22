@@ -1,7 +1,7 @@
 {
   "name": "ABUZAR-MD",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ MAFIA ADEEL",
-  "logo": "https://i.imgur.com/bN2z9kT.jpeg",
+  "description": "POWERED BY ABUZAR-MD ",
+  "logo": "https://qu.ax/HHtFp.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -14,15 +14,15 @@
     },  
     
     "ALIVE_IMG": {
-      "description": "paste your image url if you don't have you can use this public url.",
+      "description": "HEY ABUZAR-MD IS ALIVE.",
       "required": true,
       "value": "https://qu.ax/HHtFp.jpg'/"
     }, 
     
     "ALIVE_MSG": {
-      "description": "paste your alive message hear.",
+      "description": "Hey! ABUZAR-MD IS ALIVE .",
       "required": true,
-      "value": "ʜɪɪ ᴍʏ ᴅᴇᴀʀ ғʀɪᴇɴᴅ ɪᴍ MAFIA-ADEEL.!!"
+      "value": "I AM ABUZAR-MD .!!"
     },
     
     "PREFIX": {
@@ -32,7 +32,7 @@
     },
     
     "MODE": {
-      "description": "select your bot work type public-private-inbox-group.",
+      "description": "public .",
       "required": true,
       "value": "public"
     }, 
@@ -87,57 +87,57 @@
 
     "OWNER_REACT": {
       "description": "Make it true if you want bot OwnerReact.",
-      "required": true,
+      "required": false,
       "value": "false"
     
     }, 
 
     "BOT_NAME": {
-      "description": "write hear your name.",
+      "description": "POWDERED BY ABUZAR-MD.",
       "required": true,
       "value": "✯ABUZAR-MD"
     }, 
 
     "HEART_REACT": {
       "description": "Make it true if you want bot only heart 💚 emjois reaction .",
-      "required": true,
+      "required": false,
       "value": "true"
     }, 
 
     "READ_MESSAGE": {
       "description": "Make it true if you want bot read your all sms just now.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
     "CAPTION": {
-      "description": "enter your caption if you want to show on menu.",
+      "description": "https://whatsapp.com/channel/0029VawH7muGpLHWRj7SoR3E.",
       "required": true,
       "value": "POWERED BY ABUZAR KING"
     }, 
     "STATUS_REPLY": {
       "description": "enter your caption if you want to show on status reply.",
-      "required": true,
+      "required": false,
       "value": "➺үσυя sтαтυs sεεη נυsт ησω 𝙱𝚈 𝙼𝙰𝙵𝙸𝙰-𝙰𝙳𝙴𝙴𝙻"
     },
     "AUTO_REPLY_STATUS": {
       "description": "you can true or false it.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
 
     "ALWAYS_ONLINE": {
       "description": "make it true if you want to show always online.",
-      "required": true,
+      "required": false,
       "value": "false"
     }, 
     "FAKE_TYPING": {
       "description": "make it true if you want to show fake typing.",
-      "required": true,
+      "required": false,
       "value": "true"
     }, 
     "CURRENT_STATUS": {
       "description": "make it true if you to show your reail last seen.",
-      "required": true,
+      "required": false,
       "value": "true"
     }
 
